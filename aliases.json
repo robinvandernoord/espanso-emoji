@@ -1,3 +1,5 @@
 {
-    "cowboy_hat_face": ["cowboy"]
+    "cowboy_hat_face": ["cowboy"],
+    "pleading_face": ["pleading", "big_eyes"],
+    "white_check_mark": ["check", "green_check"]
 }
